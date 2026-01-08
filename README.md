@@ -28,7 +28,7 @@
 | 🎓 Student Management System | Python, SQLite |
 | 🌐 Appointment Booking Website | Flask, HTML, CSS |
 | 📝 Feedback Form Web App | Flask, SQLite |
-| 🎂 Birthday Wishing Website | HTML, CSS, JavaScript |
+
 
 👉 Check repositories for details 👇
 
@@ -43,7 +43,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rawatkripa290-lab&show_icons=true" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rawatkripa290-lab&show_icons=true)
+
 </p>
 
 <p align="center">
