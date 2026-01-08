@@ -54,10 +54,10 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="https://linkedin.com/in/kripa-rawat" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:your-kripa8512@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
