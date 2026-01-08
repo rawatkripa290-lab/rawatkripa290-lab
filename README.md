@@ -43,11 +43,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rawatkripa290-lab&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rawatkripa290-lab&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rawatkripa290-lab&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rawatkripa290-lab" />
 </p>
 
 ---
