@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kripa Rawat</h1>
 <h3 align="center">Computer Science Student | Aspiring Software Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rawatkripa290-lab &label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
@@ -39,17 +36,6 @@
 - Java Backend Development
 - Full Stack Web Development
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rawatkripa290-lab&show_icons=true)
-
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rawatkripa290-lab" />
-</p>
 
 ---
 
