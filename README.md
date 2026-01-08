@@ -32,6 +32,6 @@
 ---
 
 ## 📫 Contact Me
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-link
-- Email: your-email@gmail.com
+- GitHub: https://github.com/rawatkripa290-lab
+- LinkedIn: https://linkedin.com/in/kripa-rawat
+- Email: your-kripa8512@gmail.com
