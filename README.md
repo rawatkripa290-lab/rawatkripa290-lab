@@ -1,16 +1,36 @@
-# Hi 👋, I'm Kripa Rawat
+<h1 align="center">Hi 👋, I'm Kripa Rawat</h1>
+<h3 align="center">Computer Science Student | Aspiring Software Developer</h3>
 
-🎓 Computer Science Student | 💻 Aspiring Software Developer  
-🚀 Passionate about coding, problem-solving, and building real-world projects
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🧠 Skills
-- Programming Languages: C, C++, Java, Python
-- Web Development: HTML, CSS, JavaScript
-- Backend: Flask (Python)
-- Database: SQLite, MySQL
-- Tools: Git, GitHub, VS Code
+## 🚀 About Me
+- 🎓 Computer Science student passionate about coding  
+- 💡 Interested in **Java, Python, Web Development & DSA**
+- 🛠️ Love building **real-world projects**
+- 🌱 Currently learning **Data Structures & Backend Development**
+
+---
+
+## 🧠 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,flask,sqlite,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📌 Featured Projects
+| Project | Tech Stack |
+|-------|------------|
+| 🎓 Student Management System | Python, SQLite |
+| 🌐 Appointment Booking Website | Flask, HTML, CSS |
+| 📝 Feedback Form Web App | Flask, SQLite |
+| 🎂 Birthday Wishing Website | HTML, CSS, JavaScript |
+
+👉 Check repositories for details 👇
 
 ---
 
@@ -21,17 +41,27 @@
 
 ---
 
-## 🛠️ Projects
-- 🔹 **Student Management System** – Python + SQLite
-- 🔹 **Appointment Booking Website** – Flask + HTML + CSS
-- 🔹 **Feedback Form Web App** – Flask Backend
-- 🔹 **Birthday Wishing Website** – HTML, CSS, JavaScript
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+</p>
 
-*(More projects coming soon 🚀)*
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Contact Me
-- GitHub: https://github.com/rawatkripa290-lab
-- LinkedIn: https://linkedin.com/in/kripa-rawat
-- Email: your-kripa8512@gmail.com
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+⭐ *If you like my projects, consider giving a star!* ⭐
